@@ -30,6 +30,9 @@ public class HomePage extends base {
 		lp.getPassword().sendKeys(password);
 		lp.getloginBtn().click();
 		log.info("Login is successful");
+		log.info("Login is successful");
+		log.info("Login is successful");
+		log.info("Login is successful");
 	}
 
 	@DataProvider
