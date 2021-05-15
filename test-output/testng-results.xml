@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88785" started-at="2021-05-15T16:46:01 IST" finished-at="2021-05-15T16:47:29 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunner.testrunner@41fbdac4]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="88785" started-at="2021-05-15T16:46:01 IST" finished-at="2021-05-15T16:47:29 IST">
+      <class name="testrunner.testrunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testrunner.testrunner@41fbdac4]" name="setUpClass" is-config="true" duration-ms="574" started-at="2021-05-15T16:46:01 IST" finished-at="2021-05-15T16:46:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunner.testrunner@41fbdac4]" name="runScenario" duration-ms="25970" started-at="2021-05-15T16:46:01 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-15T16:46:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login to Rahulshettyacademy.com with valid username and password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login into application]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunner.testrunner@41fbdac4]" name="runScenario" duration-ms="62110" started-at="2021-05-15T16:46:27 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-15T16:47:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login to Rahulshettyacademy.com with valid username and password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login into application]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testrunner.testrunner@41fbdac4]" name="tearDownClass" is-config="true" duration-ms="18" started-at="2021-05-15T16:47:29 IST" finished-at="2021-05-15T16:47:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testrunner.testrunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

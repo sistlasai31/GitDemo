@@ -1,0 +1,6 @@
+23:46:50.887 [TestNG-tests-1] INFO  SelCourse.E2EProject.HomePage - Login is successful
+23:48:25.313 [TestNG-tests-1] INFO  SelCourse.E2EProject.HomePage - Login is successful
+23:11:03.389 [TestNG-tests-3] INFO  SelCourse.E2EProject.base - featured courses is validated
+23:11:03.402 [TestNG-tests-4] ERROR SelCourse.E2EProject.base - navigation page is validated
+23:13:49.911 [TestNG-tests-1] INFO  SelCourse.E2EProject.HomePage - Login is successful
+23:15:32.565 [TestNG-tests-1] INFO  SelCourse.E2EProject.HomePage - Login is successful
