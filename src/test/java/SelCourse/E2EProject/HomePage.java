@@ -33,6 +33,10 @@ public class HomePage extends base {
 		log.info("Login is successful");
 		log.info("Login is successful");
 		log.info("Login is successful");
+		
+		log.info("Login is successful");
+		log.info("Login is successful");
+		log.info("Login is successful");
 	}
 
 	@DataProvider
